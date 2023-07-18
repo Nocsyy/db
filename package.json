@@ -1,0 +1,21 @@
+{
+  "name": "db",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://Nocsyy.github.io/db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "npm run build",
+    "deploy" : "gh-pages -d build" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nocsyy/db.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nocsyy/db/issues"
+  }
+}
