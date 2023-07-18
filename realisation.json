@@ -1,7 +1,7 @@
 [
     {
         "id": "0",
-        "img": "img.png",
+        "img": "./asset/imgBluel1.png",
         "img_carroussel": ["./asset/imgBluel1.png", "imgBluel2.png", "imgBluel3.png"],
         "title": "Sophie Bluel",
         "description": "Site pour une architecte d'interieur pour qu'elle puisse diffuser ses réalisations",
@@ -27,8 +27,8 @@
     },
     {
         "id": "2",
-        "img": "Booki.png",
-        "img_carroussel":["imgBooki1.png", "imgBooki2.png"],
+        "img": "https://nocsyy.github.io/db/asset/booki.png",
+        "img_carroussel":["https://nocsyy.github.io/db/asset/booki.png", "imgBooki2.png"],
         "title": "Booki",
         "description": "Hebergement de locagement de vacances",
         "langage" : "Html - Css",
