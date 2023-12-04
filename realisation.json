@@ -8,7 +8,7 @@
         "langage": "JavaScript - Html -Css",
         "url": "https://github.com/Nocsyy/op3",
         "techno":["Html", "CSS", "JavaScript"],
-        "mission" : "Création d'un portfolio dynamique pour une architecte d'interieur, ce site lui permet d'ajouter et de supprimer des photos pour exposer son travail. Un formulaire de contacte est présent afin qu'elle puisse être contactée .",
+        "mission" : "Création d'un portfolio dynamique pour une architecte d'intérieur, ce site lui permet d'ajouter et de supprimer des photos pour exposer son travail. Un formulaire de contact est présent afin qu'elle puisse être contactée.",
         "contrainte" : "Créer un site dynamique ", 
         "solution" : "/ Utiliser Js "
     },
@@ -48,7 +48,7 @@
         "langage" : "React - mangoDb - Express",
         "url": "https://github.com/Nocsyy/OpP7",
         "techno":["React ", "MangoDB", "Express"],
-        "mission" : "Création d'un site pour qui permet de noter des livres, les utilisateur vont pouvoir s'inscrire et se connecter.",
+        "mission" : "Création d'un site pour qui permet de noter des livres, les utilisateurs vont pouvoir s'inscrire et se connecter.",
         "contrainte" : "Connecter MangoDB",
         "Solution" : "Express"
     }
