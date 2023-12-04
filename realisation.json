@@ -21,7 +21,7 @@
         "langage" : "React",
         "url": "https://github.com/Nocsyy/ocP6",
         "techno":["React"],
-        "mission" : "Création d'un site dynamique. L'objectif était de récupéerer les logements ajouté par les utilisateurs, respecter la maquettes Figma et le responsive, gerer react router et gérer fetch.",
+        "mission" : "Création d'un site dynamique. L'objectif était de récupérer les logements ajoutés par les utilisateurs, respecter la maquette Figma et le responsive, gérer react router et gérer fetch.",
         "contrainte" : "Connecter le fichier json ", 
         "solution" : "/ React"
     },
