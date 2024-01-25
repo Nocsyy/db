@@ -15,7 +15,7 @@
     {
         "id": "1",
         "img": "https://nocsyy.github.io/db/asset/kasa.png",
-        "img_carroussel":["https://nocsyy.github.io/db/asset/imgKasa1.png","https://nocsyy.github.io/db/asset/imgKasa2.png","https://nocsyy.github.io/db/asset/imgKasa3.png","imgKasa4.png"],
+        "img_carroussel":["https://nocsyy.github.io/db/asset/imgKasa1.png","https://nocsyy.github.io/db/asset/imgKasa2.png","https://nocsyy.github.io/db/asset/imgKasa3.png","https://nocsyy.github.io/db/asset/imgKasa4.png"],
         "title": "Kasa",
         "description": "Notation de logement de particulier",
         "langage" : "React",
